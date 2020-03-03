@@ -16,7 +16,7 @@ with open(poll_csv) as csvfile:
     #Print data rows
     for row in csvreader:
         total_votes=total_votes+1
-        candidate = row[2]+' '+row[1]
+        candidate = row[2]
         #if candidate not in all_candidates:
             #all_candidates.append(candidate)
         #increment vote if candidate is recognized
