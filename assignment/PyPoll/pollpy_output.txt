@@ -1,0 +1,27 @@
+Election Results 
+---------------------------- 
+3521001 total votes 
+---------------------------- 
+Khan Marsh received 1427142 votes which is 40.5% of the total 
+Correy Marsh received 453015 votes which is 12.9% of the total 
+Khan Queen received 439494 votes which is 12.5% of the total 
+Li Marsh received 317651 votes which is 9.0% of the total 
+Correy Queen received 139554 votes which is 4.0% of the total 
+Correy Bamoo received 69752 votes which is 2.0% of the total 
+Khan Trandee received 65939 votes which is 1.9% of the total 
+Khan Raffah received 65822 votes which is 1.9% of the total 
+O'Tooley Bamoo received 10433 votes which is 0.3% of the total 
+Li Bamoo received 48639 votes which is 1.4000000000000001% of the total 
+Khan Bamoo received 219834 votes which is 6.2% of the total 
+O'Tooley Queen received 20850 votes which is 0.6% of the total 
+Li Queen received 97305 votes which is 2.8000000000000003% of the total 
+Li Raffah received 14604 votes which is 0.4% of the total 
+Correy Raffah received 21055 votes which is 0.6% of the total 
+O'Tooley Marsh received 68149 votes which is 1.9% of the total 
+Correy Trandee received 20824 votes which is 0.6% of the total 
+Li Trandee received 14741 votes which is 0.4% of the total 
+O'Tooley Trandee received 3113 votes which is 0.1% of the total 
+O'Tooley Raffah received 3085 votes which is 0.1% of the total 
+---------------------------- 
+Khan Marsh wins the election 
+---------------------------- 
