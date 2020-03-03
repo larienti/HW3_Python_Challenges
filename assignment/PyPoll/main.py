@@ -25,7 +25,7 @@ with open(poll_csv) as csvfile:
         else: 
             #Add candidate with one vote
             votedict[candidate] = 1
-    winner=key
+    winner=candidate
     for key in list(votedict.keys()): 
         print(key, "received", votedict[key],'votes which is', 100*round((votedict[key]/total_votes),3),'% of the total')
         if votedict[key] > votedict[winner]:
